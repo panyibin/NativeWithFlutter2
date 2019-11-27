@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/panyibin/Documents/OneDrive/Documents/learn/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/YDFlutterManager.m \
-  /Users/panyibin/Documents/OneDrive/Documents/learn/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/YDFlutterManager.h
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/YDFlutterManager.m \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/YDFlutterManager.h

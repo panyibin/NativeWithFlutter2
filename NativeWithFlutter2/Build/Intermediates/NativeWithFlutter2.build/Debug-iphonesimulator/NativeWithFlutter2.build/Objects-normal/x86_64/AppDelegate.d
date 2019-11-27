@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/panyibin/Documents/OneDrive/Documents/learn/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/AppDelegate.m \
-  /Users/panyibin/Documents/OneDrive/Documents/learn/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/AppDelegate.h \
-  /Users/panyibin/Documents/OneDrive/Documents/learn/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/ViewController.h
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/AppDelegate.m \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/AppDelegate.h \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/NativeWithFlutter2/ViewController.h
