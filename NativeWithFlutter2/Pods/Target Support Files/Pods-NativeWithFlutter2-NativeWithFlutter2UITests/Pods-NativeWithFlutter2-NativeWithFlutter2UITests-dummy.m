@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_NativeWithFlutter2_NativeWithFlutter2UITests : NSObject
+@end
+@implementation PodsDummy_Pods_NativeWithFlutter2_NativeWithFlutter2UITests
+@end
