@@ -5,6 +5,7 @@
 ## Build generated
 ios/build/
 ios/DerivedData/
+NativeWithFlutter2/Build/
 
 ## Various settings
 *.pbxuser
