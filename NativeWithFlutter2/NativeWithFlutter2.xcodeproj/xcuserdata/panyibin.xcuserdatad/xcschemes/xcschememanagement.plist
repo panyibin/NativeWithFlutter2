@@ -7,7 +7,25 @@
 		<key>NativeWithFlutter2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>10</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DF5FF5FE2383D84500A73525</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF5FF6192383D84600A73525</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF5FF6242383D84600A73525</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

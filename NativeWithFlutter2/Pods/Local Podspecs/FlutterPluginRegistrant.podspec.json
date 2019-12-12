@@ -24,6 +24,12 @@
   "dependencies": {
     "Flutter": [
 
+    ],
+    "path_provider": [
+
+    ],
+    "sqflite": [
+
     ]
   }
 }
