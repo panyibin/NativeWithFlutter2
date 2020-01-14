@@ -18,5 +18,8 @@ dependencies: \
   /Users/panyibin/Desktop/practice/NativeWithFlutter2/my_flutter/.ios/Flutter/engine/Flutter.framework/Headers/FlutterMacros.h \
   /Users/panyibin/Desktop/practice/NativeWithFlutter2/my_flutter/.ios/Flutter/engine/Flutter.framework/Headers/FlutterAppDelegate.h \
   /Users/panyibin/Desktop/practice/NativeWithFlutter2/my_flutter/.ios/Flutter/engine/Flutter.framework/Headers/Flutter.h \
-  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/path_provider/FLTPathProviderPlugin.h \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/flutter_boost/FlutterBoostPlugin.h \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/flutter_boost/FLBPlatform.h \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/flutter_boost/FLBTypes.h \
+  /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/path_provider/PathProviderPlugin.h \
   /Users/panyibin/Desktop/practice/NativeWithFlutter2/NativeWithFlutter2/Pods/Headers/Private/sqflite/SqflitePlugin.h

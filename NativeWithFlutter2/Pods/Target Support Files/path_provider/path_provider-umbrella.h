@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "FLTPathProviderPlugin.h"
+#import "PathProviderPlugin.h"
 
 FOUNDATION_EXPORT double path_providerVersionNumber;
 FOUNDATION_EXPORT const unsigned char path_providerVersionString[];

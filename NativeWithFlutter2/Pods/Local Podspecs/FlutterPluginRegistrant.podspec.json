@@ -21,12 +21,11 @@
     "path": "."
   },
   "public_header_files": "./Classes/**/*.h",
-  "static_framework": true,
-  "pod_target_xcconfig": {
-    "DEFINES_MODULE": "YES"
-  },
   "dependencies": {
     "Flutter": [
+
+    ],
+    "flutter_boost": [
 
     ],
     "path_provider": [

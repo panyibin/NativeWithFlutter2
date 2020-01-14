@@ -1,14 +1,14 @@
 {
   "name": "sqflite",
   "version": "0.0.1",
-  "summary": "SQLite plugin.",
-  "description": "Accss SQLite database.",
-  "homepage": "https://github.com/tekartik/sqflite",
+  "summary": "A new flutter plugin project.",
+  "description": "A new flutter plugin project.",
+  "homepage": "http://example.com",
   "license": {
     "file": "../LICENSE"
   },
   "authors": {
-    "Tekartik": "alex@tekartik.com"
+    "Your Company": "email@example.com"
   },
   "source": {
     "path": "."
@@ -25,9 +25,5 @@
   },
   "platforms": {
     "ios": "8.0"
-  },
-  "pod_target_xcconfig": {
-    "DEFINES_MODULE": "YES",
-    "VALID_ARCHS[sdk=iphonesimulator*]": "x86_64"
   }
 }

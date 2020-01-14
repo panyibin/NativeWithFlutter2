@@ -1,14 +1,15 @@
 PODS:
   - Flutter (1.0.0)
+  - flutter_boost (0.0.2):
+    - Flutter
   - FlutterPluginRegistrant (0.0.1):
     - Flutter
+    - flutter_boost
     - path_provider
     - sqflite
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
-  - my_flutter (0.0.1):
-    - Flutter
   - path_provider (0.0.1):
     - Flutter
   - sqflite (0.0.1):
@@ -16,11 +17,11 @@ PODS:
     - FMDB (~> 2.7.2)
 
 DEPENDENCIES:
-  - Flutter (from `../my_flutter/.ios/Flutter/engine`)
-  - FlutterPluginRegistrant (from `../my_flutter/.ios/Flutter/FlutterPluginRegistrant`)
-  - my_flutter (from `../my_flutter/.ios/Flutter`)
-  - path_provider (from `../my_flutter/.ios/Flutter/.symlinks/path_provider/ios`)
-  - sqflite (from `../my_flutter/.ios/Flutter/.symlinks/sqflite/ios`)
+  - Flutter (from `./../my_flutter/.ios/Flutter/engine`)
+  - flutter_boost (from `./../my_flutter/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - FlutterPluginRegistrant (from `./../my_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - path_provider (from `./../my_flutter/.ios/Flutter/.symlinks/path_provider/ios`)
+  - sqflite (from `./../my_flutter/.ios/Flutter/.symlinks/sqflite/ios`)
 
 SPEC REPOS:
   trunk:
@@ -28,24 +29,24 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: "../my_flutter/.ios/Flutter/engine"
+    :path: "./../my_flutter/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "./../my_flutter/.ios/Flutter/.symlinks/flutter_boost/ios"
   FlutterPluginRegistrant:
-    :path: "../my_flutter/.ios/Flutter/FlutterPluginRegistrant"
-  my_flutter:
-    :path: "../my_flutter/.ios/Flutter"
+    :path: "./../my_flutter/.ios/Flutter/FlutterPluginRegistrant"
   path_provider:
-    :path: "../my_flutter/.ios/Flutter/.symlinks/path_provider/ios"
+    :path: "./../my_flutter/.ios/Flutter/.symlinks/path_provider/ios"
   sqflite:
-    :path: "../my_flutter/.ios/Flutter/.symlinks/sqflite/ios"
+    :path: "./../my_flutter/.ios/Flutter/.symlinks/sqflite/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  FlutterPluginRegistrant: 052916439ac930a2ed8e894d9d112c976ab9bfef
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_boost: a7cfa776b75329d5e7d101d0cd33e75042bcde69
+  FlutterPluginRegistrant: d129cd5523eaf9915b533cc1318e007abae75038
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
-  my_flutter: c0ca42721b3297bc8d54e93782ac00730d3bd1a1
   path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
-  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
 
-PODFILE CHECKSUM: 91d2e0a0cb6eb79b312fc5c21608786132ee4cc0
+PODFILE CHECKSUM: 8d6dfa87f2c3ab4415ede00706873fb909f0588c
 
 COCOAPODS: 1.8.4
