@@ -40,7 +40,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  FlutterPluginRegistrant: fce4711ae51518ddad2170e54c29c657588c72b3
+  FlutterPluginRegistrant: 052916439ac930a2ed8e894d9d112c976ab9bfef
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   my_flutter: c0ca42721b3297bc8d54e93782ac00730d3bd1a1
   path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
